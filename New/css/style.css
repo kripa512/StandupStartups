@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.ho:hover{
+    border:3px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #888888;;
+}
+
+.off{
+height: 2.5rem; width: 2.5rem;
+background-color: yellow; 
+position: absolute; 
+opacity: .8;
+right: 0rem; 
+top:0rem;
+justify-content: center;align-items: center;
+border-radius: 50%;
+}
